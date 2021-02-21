@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "766969989520",
+    "project_id": "loodos-cryptocurrency",
+    "storage_bucket": "loodos-cryptocurrency.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766969989520:android:a91b4f8b566e1bd22b0b15",
+        "android_client_info": {
+          "package_name": "com.omer.nasuhi.loodoscryptocurrency"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766969989520-1cs8gk517n5rjn066lgfnar1pmnv714m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOGeGWkI1jX7-VwW5IsL9nr7bjqWgA09I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766969989520-1cs8gk517n5rjn066lgfnar1pmnv714m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

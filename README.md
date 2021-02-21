@@ -4,6 +4,8 @@
 It is an application that provides a basic crypto currency listing and detailed information.
 Technologies used ---> MVVM, Retrofit, LiveData, Lifecycle, Navigation, Hilt, Kotlin Coroutines, Room, Firebase Authentication, Firebase Firestore.
 
+![4ywe1s](https://user-images.githubusercontent.com/79416861/108634953-6cd45e80-748d-11eb-8bc5-513aa32b7447.gif)
+
 ## Project Architecture
 - MVVM
 

@@ -6,6 +6,9 @@ Technologies used ---> MVVM, Retrofit, LiveData, Lifecycle, Navigation, Hilt, Ko
 
 ![4ywe1s](https://user-images.githubusercontent.com/79416861/108634953-6cd45e80-748d-11eb-8bc5-513aa32b7447.gif)
 
+## Download Now APK...😎
+- [APK---->](https://drive.google.com/file/d/1fa1pI9LX275zw3evn5AXO9DBc-kBPnXr/view?usp=sharing)
+
 ## Project Architecture
 - MVVM
 
